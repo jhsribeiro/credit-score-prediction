@@ -24,7 +24,7 @@ Substituir a análise manual de crédito por um sistema preditivo automatizado, 
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone 
+   git clone https://github.com/jhsribeiro/credit-score-prediction/tree/main
    ```
 2. Instale as dependências necessárias:
    ```bash
